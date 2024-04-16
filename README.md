@@ -4,10 +4,10 @@ Código para un seminario de introducción al código creativo con P5js. El obje
 
 ## **4 ejes**
 
-1-podés tocar y no se rompe nada
-2-lo podés compartir
-3-X e Y
-4-podés mover cosas
+1-podés tocar y no se rompe nada  
+2-lo podés compartir  
+3-X e Y  
+4-podés mover cosas  
 
 ## **Recursos**
 Link al sketch: https://editor.p5js.org/ipcastol/sketches/bth6N7sj9
