@@ -1,4 +1,4 @@
-# **Podemos Aprender: Introducción al código creativo**
+# **Podemos Aprender: Seminario de introducción al código creativo con P5js**
 
 Código para un seminario de introducción al código creativo con P5js. El objetivo es transmitir los conceptos de coordenadas y movimiento de forma intuitiva sin apelar a conceptos técnicos. El cógigo está hecho para ser compartido y jugar con él.
 
